@@ -12,5 +12,5 @@ public class Submission {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private String
+    private String name;
 }
